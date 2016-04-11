@@ -1,0 +1,33 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "webpack,practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiangdaiyu/webpack_demo.git"
+  },
+  "keywords": [
+    "webpack",
+    "practice"
+  ],
+  "author": "qianjin.pan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoxiangdaiyu/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/xiaoxiangdaiyu/webpack_demo#readme",
+  "dependencies": {
+    "cnpm": "^4.2.0",
+    "css-loader": "^0.23.1",
+    "install": "^0.6.1",
+    "less": "^2.6.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.15"
+  }
+}
