@@ -27,6 +27,7 @@
     "install": "^0.6.1",
     "less": "^2.6.1",
     "less-loader": "^2.2.3",
+    "react": "^16.2.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.12.15"
   }
