@@ -7,3 +7,5 @@ $cnpm install
 $cnpm run build
 
 ```
+
+## add code spliting
